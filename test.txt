@@ -1,5 +1,6 @@
 vitalik programist but not well
 sergiy spizdyv v mene raspberry pi :(
+<<<<<<< HEAD
 i dont want
 
 haha xdddd
@@ -13,3 +14,7 @@ I wrote this in a test-branch bitch!
 
 
 Another change!
+=======
+I am so soryy
+i dont want
+>>>>>>> master
