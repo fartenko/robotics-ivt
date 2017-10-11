@@ -60,3 +60,5 @@ model.fit(x_train, y_train,
 score = model.evaluate(x_test, y_test, verbose=0)
 print('Test loss: {0}'.format(score[0]))
 print('Test accuracy: {0}%'.format(score[1] * 100))
+
+model.save('models/keras_cnn.h5')
